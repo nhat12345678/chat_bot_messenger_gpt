@@ -1,0 +1,16 @@
+{
+  "name": "chino-chan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "nodemon --inspect index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "messenger-api.js": "^0.0.8-edited",
+    "node-cache": "^5.1.2"
+  }
+}
